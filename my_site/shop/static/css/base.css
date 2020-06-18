@@ -9,6 +9,15 @@ body {
 h1, h2, h3, h4, h5 , h6 {
     font-family: 'Ubuntu', sans-serif; font-weight:normal;
 }
+  .image {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  height: 200px;
+}
+.image_detail{
+}
 
 a {
     text-decoration:none;
